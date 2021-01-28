@@ -28,5 +28,5 @@
         "issues": "http://servicedesk.tig.nl/hc/nl/requests/new"
     },
     "homepage": "https://tig.nl/image-optimization-magento-extension-community-edition/",
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
